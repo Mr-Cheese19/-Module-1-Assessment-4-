@@ -1,0 +1,16 @@
+
+body{
+    background:url(movies.jpg)no-repeat center fixed;
+    background-size: cover;
+}
+table, th, td{
+    width: 80%;
+    margin: auto;
+    border:black;
+    border-collapse: collapse;
+    text-align: center;text-emphasis: none;;
+    font-size: xx-large;
+    table-layout: fixed;
+}
+
+h1{font-size: xxx-large;font-family: Verdana, Geneva, Tahoma, sans-serif;}
